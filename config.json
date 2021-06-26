@@ -1,0 +1,6 @@
+{
+	"prefix": "W!", // Hier kann der Prefix für den Bot geändert werden
+	"token": "HIER DISCORD BOT TOKEN EINFÜGEN",
+	"api-key": "HIER DEN API KEY VON DER WOWAUDIT PAGE EINFÜGEN",
+	"maxi-reminded": false // nicht ändern ist für Xirdal specific reminder falls deaktiviert werden soll auf true setzen
+}

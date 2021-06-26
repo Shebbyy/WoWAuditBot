@@ -1,0 +1,23 @@
+{
+  "name": "wowauditbot",
+  "version": "1.0.0",
+  "description": "Too Late bot for all things wowaudit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "eslint": "^7.29.0"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord-fetch-all": "^3.0.2",
+    "discord.js": "^12.5.3",
+    "node-schedule": "^2.0.0",
+    "toad-scheduler": "^1.4.0"
+  }
+}
