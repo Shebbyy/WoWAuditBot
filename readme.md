@@ -4,7 +4,7 @@
 
 - Loot Wishlist ✓
 
-- - Expand function to allow for search for specific item
+- - Expand function to allow for search for specific item ✓
 
 - Auto Reminder für Kalender mit Link (Dienstag 20:00) ✓
 
