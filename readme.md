@@ -14,7 +14,7 @@
 
 - /v1/raids/{id} automated reminder at 7:00 at raid-day for everyone whose assigned for raid ✓
 
-- Maxi AutismReminder ✓
+- Maxi ForgetfulnessReminder ✓
 
 All subject to change or advance according to progress
 
